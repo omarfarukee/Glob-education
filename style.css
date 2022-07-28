@@ -1,14 +1,13 @@
-.black img{
-        filter: brightness(28%);
-        opacity: 1;
+.big-font{
+    top: 26%;
 }
-.c-slide{
-    padding-top:5%;
+.back-black img{
+    filter: brightness(32%);
+    opacity: 0.9;
 }
-.w-view h1{
-        font-size:1vw;
-        top:20%;
+ .big-font h1{
+    font-size: 4vw;
 }
-.w-view {
-    top: 30%;
-}
+.big-font p{
+    font-size: 1.7vw;
+} 
