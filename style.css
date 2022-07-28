@@ -1,0 +1,14 @@
+.black img{
+        filter: brightness(28%);
+        opacity: 1;
+}
+.c-slide{
+    padding-top:5%;
+}
+.w-view h1{
+        font-size:1vw;
+        top:20%;
+}
+.w-view {
+    top: 30%;
+}
